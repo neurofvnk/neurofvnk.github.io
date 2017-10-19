@@ -1,0 +1,54 @@
+/*.btn {
+	padding: 10px;
+	border-radius: 3px;
+	background: #00FF00;
+	border: #CCC 1px solid;
+}*/
+/*
+.btn-primary {
+	padding: 10px;
+	border-radius: 3px;
+	background: #00FF00;
+	border: #CCC 1px solid;
+}
+
+.btn-lg {
+	padding: 10px;
+	border-radius: 3px;
+	background: #00FF00;
+	border: #CCC 1px solid;
+}
+*/
+
+.typed {
+	padding-left: 10%;
+	padding-top: 10%;
+	color: white;
+	font-size: 40px;
+	font-family: Courier;
+}
+
+.btn {
+  -webkit-animation: KEYFRAME-NAME 15s forwards;
+  -moz-animation:    KEYFRAME-NAME 15s forwards;
+  -o-animation:      KEYFRAME-NAME 15s forwards;
+  animation:         KEYFRAME-NAME 15s forwards;
+
+}
+
+@-webkit-keyframes KEYFRAME-NAME {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@-moz-keyframes KEYFRAME-NAME {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@-o-keyframes KEYFRAME-NAME {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes KEYFRAME-NAME {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
