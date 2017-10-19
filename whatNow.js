@@ -1,4 +1,4 @@
 var typed = new Typed('.typed', {
-  strings: ["Have a look."],
+  strings: ["The choice is yours."],
   typeSpeed: 30
 });
